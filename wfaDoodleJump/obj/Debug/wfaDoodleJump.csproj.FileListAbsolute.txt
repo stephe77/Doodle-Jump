@@ -1,0 +1,10 @@
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\bin\Debug\wfaDoodleJump.exe.config
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\bin\Debug\wfaDoodleJump.exe
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\bin\Debug\wfaDoodleJump.pdb
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\obj\Debug\wfaDoodleJump.csproj.AssemblyReference.cache
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\obj\Debug\wfaDoodleJump.Form1.resources
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\obj\Debug\wfaDoodleJump.Properties.Resources.resources
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\obj\Debug\wfaDoodleJump.csproj.GenerateResource.cache
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\obj\Debug\wfaDoodleJump.csproj.CoreCompileInputs.cache
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\obj\Debug\wfaDoodleJump.exe
+C:\Users\Айхан\source\individual projects\wfaDoodleJump\wfaDoodleJump\obj\Debug\wfaDoodleJump.pdb
